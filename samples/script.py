@@ -1,9 +1,9 @@
 # script/create_sample
 
-input_file = r"C:\Users\User\Documents\germany\thesis\semantic change\database\Matina\Matina-D1403032901_newsKhordad1403_dedup90_P.jsonl"
-output_file = r"C:\Users\User\Documents\germany\thesis\semantic change\database\Matina\Matina-newsKhordad1403.jsonl"
+input_file = r"C:\Users\User\Documents\germany\thesis\semantic change\database\miras\MirasText_sample.txt"
+output_file = r"C:\Users\User\Documents\germany\thesis\semantic change\database\github_corpora\samples\Miras_sample.txt"
 
-num_lines = 50   # size of sample
+num_lines = 20   # size of sample
 
 with open(input_file, "r", encoding="utf-8") as fin, \
      open(output_file, "w", encoding="utf-8") as fout:
