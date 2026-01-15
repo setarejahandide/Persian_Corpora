@@ -1,0 +1,50 @@
+<sentence id="d00.s00">
+<wf lemma="در" pos="P">در</wf>
+<instance id="d00.s00.t000" lemma = "بازی" pos="NOUN">بازی</instance>
+<instance id="d00.s00.t001" lemma = "مرحله" pos="NOUN">مرحله</instance>
+<instance id="d00.s00.t002" lemma = "نیمه نهایی" pos="ADJ">نیمه نهایی</instance>
+<instance id="d00.s00.t003" lemma = "جام" pos="NOUN">جام</instance>
+<instance id="d00.s00.t004" lemma = "حذفی" pos="ADJ">حذفی</instance>
+<instance id="d00.s00.t005" lemma = "تیم" pos="NOUN">تیم</instance>
+<instance id="d00.s00.t006" lemma = "پرسپولیس" pos="NOUN">پرسپولیس</instance>
+<instance id="d00.s00.t007" lemma = "توانستن" pos="VERB">توانست</instance>
+<wf lemma="در" pos="P">در</wf>
+<instance id="d00.s00.t008" lemma = "اهواز" pos="NOUN">اهواز</instance>
+<wf lemma="با" pos="P">با</wf>
+<instance id="d00.s00.t009" lemma = "نتیجه" pos="NOUN">نتیجه</instance>
+<instance id="d00.s00.t010" lemma = "یک" pos="NOUN">یک</instance>
+<wf lemma="بر" pos="P">بر</wf>
+<instance id="d00.s00.t011" lemma = "صفر" pos="NOUN">صفر</instance>
+<wf lemma="فولاد خوزستان" pos="NOUN">فولاد خوزستان</wf>
+<wf lemma="را" pos="Obj marker">را</wf>
+<instance id="d00.s00.t012" lemma = "شکست دادن" pos="VERB">شکست دهد</instance>
+<wf lemma="و" pos="con">و</wf>
+<wf lemma="در" pos="P">در</wf>
+<instance id="d00.s00.t013" lemma = "فینال" pos="NOUN">فینال</instance>
+<instance id="d00.s00.t014" lemma = "حریف" pos="NOUN">حریف</instance>
+<wf lemma="ملوان بندرانزلی" pos="NOUN">ملوان بندرانزلی</wf>
+<wf lemma="شدن" pos="VERB">شود</wf>
+</sentence>
+<sentence id="d00.s01">
+<instance id="d00.s01.t000" lemma = "گل" pos="NOUN">گل</instance>
+<instance id="d00.s01.t001" lemma = "پرسپولیس" pos="NOUN">پرسپولیس</instance>
+<wf lemma="در" pos="P">در</wf>
+<instance id="d00.s01.t002" lemma = "دقیقه" pos="NOUN">دقیقه</instance>
+<wf lemma="۶۴" pos="ADJ">۶۴</wf>
+<wf lemma="توسط" pos="P">توسط</wf>
+<wf lemma="person" pos="NOUN">وحیدهاشمیان</wf>
+<wf lemma="به ثمر رسیدن" pos="VERB">به ثمر رسید</wf>
+</sentence>
+<sentence id="d00.s02">
+<instance id="d00.s02.t000" lemma = "گزارش" pos="NOUN">گزارش</instance>
+<instance id="d00.s02.t001" lemma = "نیمه" pos="NOUN">نیمه</instance>
+<instance id="d00.s02.t002" lemma = "نخست" pos="ADJ">نخست</instance>
+<instance id="d00.s02.t003" lemma = "نیمه" pos="NOUN">نیمه</instance>
+<instance id="d00.s02.t004" lemma = "نخست" pos="ADJ">نخست</instance>
+<wf lemma="این" pos="ADJ">این</wf>
+<instance id="d00.s02.t005" lemma = "مسابقه" pos="NOUN">مسابقه</instance>
+<wf lemma="با" pos="P">با</wf>
+<instance id="d00.s02.t006" lemma = "نمایش" pos="NOUN">نمایش</instance>
+<instance id="d00.s02.t007" lemma = "خوب" pos="ADJ">خوب</instance>
+<wf lemma="شاگرد" pos="NOUN">شاگردان</wf>
+<wf lemma="person" pos="NOUN">جلالی</wf>
