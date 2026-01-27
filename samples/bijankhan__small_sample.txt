@@ -1,0 +1,50 @@
+#                                                 DELM
+اولين                                             ADJ_SUP
+سياره                                             N_SING
+خارج                                              ADJ_SIM
+از                                                P
+منظومه                                            N_SING
+شمسي                                              ADJ_SIM
+ديده                                              ADJ_INO
+شد                                                V_PA
+.                                                 DELM
+#                                                 DELM
+#                                                 DELM
+واشنگتن                                           N_SING
+ـ                                                 DELM
+خبرگزاري                                          N_SING
+جمهوري                                            N_SING
+اسلامي                                            ADJ_SIM
+#                                                 DELM
+ستاره شناسان                                      N_PL
+مي گويند                                          V_PRS
+كه                                                CON
+ممكن                                              ADJ_SIM
+است                                               V_PRE
+اولين                                             ADJ_SUP
+سياره                                             N_SING
+خارج                                              ADJ_SIM
+از                                                P
+منظومه                                            N_SING
+شمسي                                              ADJ_SIM
+را                                                P
+ديده                                              ADJ_INO
+باشند                                             V_SUB
+.                                                 DELM
+طي                                                P
+سالهاي                                            N_PL
+اخير                                              ADJ_SIM
+،                                                 DELM
+بيش                                               ADJ_CMPR
+از                                                P
+دو                                                N_SING
+دوجين                                             N_SING
+سياره                                             N_SING
+در                                                P
+مدار                                              N_SING
+اطراف                                             N_PL
+ستاره ها                                          N_PL
+كشف                                               N_SING
+شده اند                                           V_PA
+.                                                 DELM
+ليكن                                              CON
